@@ -1,0 +1,21 @@
+# Spatial data files
+*.shp
+*.shx
+*.cpg
+*.dbf
+
+# ArcGIS files
+*.xml
+*.sbn
+*.tbx
+*.prj
+
+# Other common files
+*.txt
+*.atx
+*.lock
+*.arx
+
+# Excel files
+*.xlsx
+*.xls
