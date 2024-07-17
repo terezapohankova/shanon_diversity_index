@@ -3,6 +3,7 @@
 *.shx
 *.cpg
 *.dbf
+*.sbx
 
 # ArcGIS files
 *.xml
